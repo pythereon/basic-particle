@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/hpssjellis/spark-core-web-page-html-control/master/ajaxBetter.html
+https://rawgit.com/hpssjellis/phonegap-testing01/master/index.html
